@@ -1,5 +1,4 @@
 # Description
-
 This repo is a solution to the following prompt:
 
 Build a component that books a one-way or return flight for specified dates.
